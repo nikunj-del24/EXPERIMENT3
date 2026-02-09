@@ -38,6 +38,9 @@ a=s.count(P) gives 3
 b=s.count(A) gives 2
 count function used to count a variable in tuple.
 
+CONCLUSION-
+Study of tuple and its application with differnce from list.
+
 
 
 
